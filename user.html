@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>User Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body style="background:url('images/user.jpeg') no-repeat center/cover;">
+
+<div class="card">
+  <h2>User Dashboard</h2>
+
+  <input id="title" placeholder="Issue Title">
+
+  <textarea id="desc" placeholder="Describe the issue"></textarea>
+
+  <select id="category">
+    <option value="">Select Category</option>
+    <option>Road Damage</option>
+    <option>Garbage</option>
+    <option>Water Leakage</option>
+    <option>Street Light</option>
+    <option>Drainage</option>
+  </select>
+
+  <select id="priority">
+    <option value="">Priority Level</option>
+    <option>Low</option>
+    <option>Medium</option>
+    <option>High</option>
+    <option>Emergency</option>
+  </select>
+
+  <input id="address" placeholder="Street / Area">
+  <input id="landmark" placeholder="Nearby Landmark">
+  <input id="pincode" placeholder="Pincode">
+
+  <button onclick="addIssue()">Submit Issue</button>
+</div>
+
+<div id="list"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
