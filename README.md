@@ -1,27 +1,17 @@
-# Civic Issue Reporting System
+A web-based civic grievance management system designed to help citizens report public issues and enable authorities to track and resolve them efficiently. Built using HTML5, CSS3, and JavaScript with browser localStorage for data handling and workflow tracking.
 
-A responsive web application that allows citizens to report civic issues such as road damage, water supply problems, and sanitation issues through a simple and user-friendly interface.
+🚀 Features
+👤 User registration and login authentication  
+📍 Submit civic complaints with address, landmark, and pincode details  
+📂 Categorize issues such as road damage, garbage, water leakage, street light, and drainage problems  
+⚡ Priority-based complaint management system  
+📊 Admin dashboard for monitoring and managing complaints  
+🛠️ Complaint workflow tracking from submission to resolution  
+📝 Admin remarks and status update system  
+💾 LocalStorage-based data management  
+💡 Clean, responsive, and user-friendly interface  
 
----
-
-## 🚀 Features
-
-- User registration and login system
-- Submit civic issues with title, description, and location
-- Track issue status (Pending / In Progress / Resolved)
-- User dashboard to view submitted complaints
-- Admin-style dashboard to manage issues
-- Clean and responsive UI
-
----
-
-## 🛠️ Tech Stack
-
-- HTML
-- CSS
+🧩 Technologies Used
+- HTML5
+- CSS3
 - JavaScript
-- Browser LocalStorage
-
----
-
-## 📁 Project Structure
