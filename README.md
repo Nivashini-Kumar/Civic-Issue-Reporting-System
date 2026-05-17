@@ -1,4 +1,4 @@
-A web-based civic grievance management system designed to help citizens report public issues and enable authorities to track and resolve them efficiently. Built using HTML5, CSS3, and JavaScript with browser localStorage for data handling and workflow tracking.
+A web-based civic grievance management system designed to help citizens report public issues and enable authorities to track and resolve them efficiently.
 
 🚀 Features
 👤 User registration and login authentication  
