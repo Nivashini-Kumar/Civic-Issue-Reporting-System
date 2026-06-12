@@ -1,6 +1,7 @@
 A web-based civic grievance management system designed to help citizens report public issues and enable authorities to track and resolve them efficiently.
 
 🚀 Features
+
 👤 User registration and login authentication  
 📍 Submit civic complaints with address, landmark, and pincode details  
 📂 Categorize issues such as road damage, garbage, water leakage, street light, and drainage problems  
